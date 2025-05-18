@@ -1,4 +1,9 @@
 {
+  "homepage": "https://aditya2k4anu.github.io/my-project",
+  
+}
+
+{
   "homepage": "https://aditya2k4anu.github.io/scratch-motion-react-main",
   "scripts": {
     "predeploy": "npm run build",
